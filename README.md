@@ -2,7 +2,7 @@
 
 ## Supervised Learning Example
 
-### Regressions List
+### Used Model List
 - AdaBoost
 - Random Forest
 - SVC
