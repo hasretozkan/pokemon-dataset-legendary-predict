@@ -3,12 +3,12 @@
 ## Supervised Learning Example
 
 ### Regressions List
--AdaBoost
--Random Forest
--SVC
--DecisionTreeClassifier
--LogisticRegression
--BaggingClassifier
+- AdaBoost
+- Random Forest
+- SVC
+- DecisionTreeClassifier
+- LogisticRegression
+- BaggingClassifier
 
 
 ## Data Set
