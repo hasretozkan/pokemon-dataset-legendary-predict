@@ -15,5 +15,5 @@
 
 *You can access the data set by clicking [here](https://www.kaggle.com/rounakbanik/pokemon).*
 
-### Hasret Özkan
-[hasretozkan.me](https://hasretozkan.me/)
+## Contributors
+***Hasret Özkan*** - ***[Website](hasretozkan.me)*** - [***LinkedIn***](linkedin.com/in/hasretozkan)
