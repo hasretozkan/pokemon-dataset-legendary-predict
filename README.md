@@ -1,6 +1,6 @@
 # Pokemon Dataset Legendary Predict with Machine Learning
 
-## Supervised Learning Example
+## Supervised Learning Model List
 
 ### Used Model List
 - AdaBoost
